@@ -15,7 +15,7 @@ function listHeaders(doc) {
 			headers.push({
 				type: headerType,
 				name: paragraph.getText()
-			})
+			});
 		}
 	});
     return headers;
