@@ -1,0 +1,8 @@
+{
+  "name": "gas-utilities",
+  "private": true,
+  "description": "",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.83"
+  }
+}
