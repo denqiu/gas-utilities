@@ -1,10 +1,9 @@
 {
   "name": "@gasutil/document",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Utilities for working with Google Doc.",
   "main": "Code.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
