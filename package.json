@@ -1,12 +1,23 @@
 {
   "name": "gas-utilities",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Monorepo containing utility packages for Google App Scripts.",
+  "author": "Dennis Qiu <dennisqiu123@gmail.com>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/denqiu/gas-utilities/blob/main/README.md",
+  "bugs": "https://github.com/denqiu/gas-utilities/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denqiu/gas-utilities.git"
+  },
   "keywords": [
     "google-app-scripts"
   ],
-  "author": "Dennis Qiu <dennisqiu123@gmail.com>",
-  "license": "Apache-2.0",
+  "engines": {
+    "node": ">= 20.15.1",
+    "npm": ">= 10.7.0",
+    "pnpm": ">= 9.5.0"
+  },
   "devDependencies": {
     "@types/google-apps-script": "^1.0.83"
   }
