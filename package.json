@@ -1,7 +1,7 @@
 {
   "name": "gas-utilities",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Monorepo containing utility packages for Google App Scripts.",
   "keywords": [
     "google-app-scripts"
   ],
