@@ -1,6 +1,9 @@
 {
   "name": "gas-utilities",
-  "version": "1.0.6",
+  "version": "1.0.7",
+  "scripts": {
+    "test": ""
+  },
   "description": "Monorepo containing utility packages for Google App Scripts.",
   "author": "Dennis Qiu <dennisqiu123@gmail.com>",
   "license": "Apache-2.0",
