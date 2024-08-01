@@ -18,6 +18,9 @@
     "npm": ">= 10.7.0",
     "pnpm": ">= 9.5.0"
   },
+  "publishConfig": {
+    "@denqiu:registry": "https://npm.pkg.github.com"
+  },
   "devDependencies": {
     "@types/google-apps-script": "^1.0.83"
   }
