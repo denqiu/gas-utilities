@@ -2,6 +2,9 @@
   "name": "gas-utilities",
   "version": "1.0.0",
   "description": "",
+  "keywords": [
+    "google-app-scripts"
+  ],
   "devDependencies": {
     "@types/google-apps-script": "^1.0.83"
   }
